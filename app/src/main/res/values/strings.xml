@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutExample</string>
+    <string-array name="question_array">
+        <item> - Student</item>
+        <item> - Staff </item>
+        <item> - Faculty </item>
+        <item> - None </item>
+
+    </string-array>
+
+</resources>
